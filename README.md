@@ -8,16 +8,16 @@ Touch Bar iStats shows temperature of CPU/GPU/MEM or [whatever you want](https:/
 
 1. Install [BetterTouchTool](https://www.boastr.net/)
 2. Install [iStats](https://github.com/Chris911/iStats) ruby gem with `sudo gem install iStats`
-   (you can use macOS embeded ruby, `rbenv` or `rvm`)
+   (you can use macOS embedded ruby, `rbenv` or `rvm`)
 3. Pull this repo contents
 4. Open BetterTouchTool/Preferences/Touch Bar and import `JSON` files
 
-Gauges will turn red when safe temperature is exceeded:
+Gauges will turn red when a safe temperature is exceeded:
 * CPU >75°C | 30s
 * GPU >85°C | 30s
 * MEM >75°C | 5m
 
-You can chnage probing interval in BetterTouchTool on widget's Advanced Configuration dialog.
+You can change probing interval in BetterTouchTool on widget's Advanced Configuration dialog.
 
 ## Authors
 
