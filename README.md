@@ -1,8 +1,8 @@
 # Touch Bar iStats
 
-<img src="resources/screenshot.png" width="100%">
-
 Touch Bar iStats shows temperature of CPU/GPU/MEM or [whatever you want](https://github.com/Chris911/iStats#advanced-usage) sensor on your touch bar.
+
+<img src="shot.jpg" width="100%">
 
 ## How to install
 
@@ -15,9 +15,9 @@ Touch Bar iStats shows temperature of CPU/GPU/MEM or [whatever you want](https:/
 Gauges will turn red when safe temperature is exceeded:
 * CPU >75°C | 30s
 * GPU >85°C | 30s
-* MEM >90°C | 5m
+* MEM >75°C | 5m
 
-You can chnage probing interval on widget's Advanced Settings dialog.
+You can chnage probing interval in BetterTouchTool on widget's Advanced Configuration dialog.
 
 ## Authors
 
