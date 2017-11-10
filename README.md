@@ -13,9 +13,9 @@ Touch Bar iStats shows temperature of CPU/GPU/MEM or [whatever you want](https:/
 4. Open BetterTouchTool/Preferences/Touch Bar and import JSON files
 
 Gauges will turn red when safe temperature is exceeded:
-* CPU >75
-* GPU >85
-* MEM >90
+* CPU >75°C
+* GPU >85°C
+* MEM >90°C
 
 ## Authors
 
