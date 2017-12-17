@@ -28,7 +28,9 @@ You can change probing interval in BetterTouchTool on widget's Advanced Configur
 
 * Thanks to [Christophe Naud-Dulude](https://github.com/Chris911) for [iStats](https://github.com/Chris911/iStats), which ties together the hardware info stuff with [BetterTouchTool](https://www.boastr.net/).
 * Thanks to [Smashicons](https://smashicons.com/) for awesome [Technology Elements](https://www.flaticon.com/packs/technology-elements) icon set.
+* Fan icon by [Icons8](https://icons8.com) - [CC BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/)
 
 ## License
 
 Touch Bar iStats is published under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
+
