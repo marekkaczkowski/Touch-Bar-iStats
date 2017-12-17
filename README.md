@@ -22,6 +22,7 @@ You can change probing interval in BetterTouchTool on widget's Advanced Configur
 ## Authors
 
 * [Marek Kaczkowski](https://github.com/marekkaczkowski)
+* [Michael Ang](https://github.com/mangtronix) - Fan RPM
 
 ## Credits
 
