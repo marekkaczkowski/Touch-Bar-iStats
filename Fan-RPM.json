@@ -25,7 +25,7 @@
             "BTTTouchBarAlwaysShowButton" : "0",
             "BTTTouchBarAppleScriptString" : "# Get fan RPM(s) and clean up output\rset value to do shell script \"\/usr\/local\/bin\/istats fan --value-only | tail -n +2 | tr '\n' ' '| tr -s ' '\"\rset value to value & \"RPM\"\rreturn value",
             "BTTTouchBarAlternateBackgroundColor" : "128.829533, 128.829533, 128.829533, 255.000000",
-            "BTTTouchBarScriptUpdateInterval" : 5
+            "BTTTouchBarScriptUpdateInterval" : 30
           }
         }
       ]
